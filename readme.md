@@ -13,7 +13,6 @@ C:\data\java\JetBrains\IntelliJ IDEA 2018.1.5\plugins\idea-multimarkdown\lib
 4. 如果无法替换，需要先关闭idea软件，因为软件会占用文件，导致无法进行操作，替换成功后再次启动即可
 5. 本次破解所改动的地方都加了注释，注明了改动的含义
 
-<font face="楷体" size="5" color="#00ffff">
-这里已经将编译好的class文件放入result文件夹中，目前可以直接使用</font>
+<font face="楷体" size="5" color="#00ffff">这里已经将编译好的class文件放入result文件夹中，目前可以直接使用</font>
 
 > 本破解方法仅供参考，如有其它更好的的方法，请告知，多谢多谢
